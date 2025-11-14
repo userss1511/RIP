@@ -1,3 +1,2 @@
 # RIP
-Racunari i programiranje
-A/B i D smjer
+Racunari i programiranje 2025/25
