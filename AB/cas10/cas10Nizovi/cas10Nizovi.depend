@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1764605172 source:c:\users\owner\desktop\posao\rip a i b smjer\cas10\cas10nizovi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<stdbool.h>
+
