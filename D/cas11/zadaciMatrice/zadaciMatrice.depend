@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1764715941 source:c:\users\owner\desktop\posao\priprema\cas11 c jezik\zadacimatrice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
