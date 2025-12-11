@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1765158755 source:c:\users\owner\desktop\posao\priprema\cas12 c jezik\cas12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<limits.h>
+
