@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1766591845 source:c:\users\owner\desktop\test\zad3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<stdbool.h>
+
