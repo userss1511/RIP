@@ -1,2 +1,2 @@
 # RIP
-Racunari i programiranje 2025/25
+Racunari i programiranje 2026/27
