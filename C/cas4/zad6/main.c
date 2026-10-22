@@ -3,14 +3,14 @@
 
 int main()
 {
-    int a, b;
-    scanf("%d %d", &a, &b);
+    double a, b;
+    scanf("%lf %lf", &a, &b);
 
     if(a < b){
-        printf("%d\n", a);
+        printf("%f\n", a);
     }
    else { // a >= b
-        printf("%d\n", b);
+        printf("%f\n", b);
    }
     return 0;
 }
