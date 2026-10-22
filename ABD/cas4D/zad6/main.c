@@ -8,10 +8,10 @@ int main()
     scanf("%lf", &b);
 
     if(a > b) {
-        printf("%f", b);
+        printf("%f\n", b);
     }
     else { // if(a <= b)
-        printf("%f", a);
+        printf("%f\n", a);
     }
 
     return 0;
